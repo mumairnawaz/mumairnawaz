@@ -30,4 +30,4 @@ My work focuses on data cleaning, modeling, dashboarding, and decision-oriented 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
 - 📧 Email: abc.@gmail.com 
-- 🧑‍💻 GitHub: https://github.com/umair64
+- 🧑‍💻 GitHub: https://github.com/mumairnawaz
