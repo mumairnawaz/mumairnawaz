@@ -26,6 +26,10 @@ My work focuses on data cleaning, modeling, dashboarding, and decision-oriented 
 - **IBM SPSS:** Statistical analysis and structured data exploration  
 - **Data Warehousing:** Star schema, fact & dimension modeling
 
+## Tools & Technologies
+
+SQL | Power BI | Excel | Tableau | IBM SPSS | Data Warehousing
+
 ## Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/umair-nawaz-dataanalyst 
