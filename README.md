@@ -28,6 +28,6 @@ My work focuses on data cleaning, modeling, dashboarding, and decision-oriented 
 
 ## Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
-- 📧 Email: abc.@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/umair-nawaz-dataanalyst 
+- 📧 Email: umair-nawaz-dataanalyst
 - 🧑‍💻 GitHub: https://github.com/mumairnawaz
