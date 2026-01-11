@@ -25,3 +25,9 @@ My work focuses on data cleaning, modeling, dashboarding, and decision-oriented 
 - **Tableau:** Interactive dashboards and visual analytics  
 - **IBM SPSS:** Statistical analysis and structured data exploration  
 - **Data Warehousing:** Star schema, fact & dimension modeling
+
+## Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
+- 📧 Email: abc.@gmail.com 
+- 🧑‍💻 GitHub: https://github.com/umair64
