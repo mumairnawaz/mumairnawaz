@@ -1,37 +1,40 @@
-![Profile Banner](./assets/profile-banner.png)
+Hi, I'm Muhammad Umair Nawaz 👋
 
-# Muhammad Umair Nawaz
-### Data Analyst & BI Consultant
-I am a Data Analyst and BI Consultant with hands-on experience in SQL, Power BI, and Excel.  
-I specialize in transforming complex datasets into clear, actionable insights for business and operations teams.  
-My work focuses on data cleaning, modeling, dashboarding, and decision-oriented storytelling.
+I'm a data analyst and business intelligence consultant who is deeply interested in turning complex, messy business data into clear insights, performance dashboards, and decision-ready analytics. I work on sales, operations, and customer data, focusing on KPI design, scalable reporting, and analytics solutions that help teams understand what’s happening, why it’s happening, and what to do next.
 
-## Professional Expertise
+---
 
-### End-to-End Data Analytics & Automation
-- Automated data pipelines from **Excel / CSV → SQL → Power BI**
-- Designed structured datasets and reusable data models for reporting
-- Eliminated manual reporting through scheduled refresh and automation
+### Featured Work
+I share end-to-end analytics case studies that reflect real business problems — from raw data to insights and dashboards.
 
-### Business Intelligence & Dashboards
-- Built executive and operational dashboards in **Power BI** and **Tableau**
-- Designed KPIs for performance tracking and decision support
-- Delivered clean, business-focused visuals for stakeholders
+- **E-commerce Sales Performance Analysis**  
+  Revenue trends, customer behavior, and product performance with actionable recommendations.
+
+- **Operations KPI & Performance Dashboard**  
+  SQL-driven KPI frameworks and executive reporting.
+
+- **Fraud Detection & Risk Analysis**  
+  Transaction-level analysis to identify anomalies and risk patterns.
+
+- **Pricing & Profitability Insights**  
+  Margin analysis and pricing decisions supported by data.
+
+---
 
 ### Tools & Technologies
-- **SQL:** Data modeling, CTEs, Window Functions, performance optimization  
-- **Power BI:** DAX, data modeling, KPI & management dashboards  
-- **Excel:** Advanced formulas, pivot tables, scenario & trend analysis  
-- **Tableau:** Interactive dashboards and visual analytics  
-- **IBM SPSS:** Statistical analysis and structured data exploration  
-- **Data Warehousing:** Star schema, fact & dimension modeling
+SQL · Power BI · Excel · Tableau · IBM SPSS  
+Data Warehousing · Star Schema · Fact & Dimension Modeling
 
-## Tools & Technologies
+---
 
-SQL | Power BI | Excel | Tableau | IBM SPSS | Data Warehousing
+### Background
+I have hands-on experience working with business and operations teams, automating reporting workflows, validating data quality, and delivering insights that support decision-making across sales, finance, and operations.
 
-## Let’s Connect
+---
 
-- 💼 LinkedIn: https://www.linkedin.com/in/umair-nawaz-dataanalyst 
-- 📧 Email: umair-nawaz-dataanalyst
-- 🧑‍💻 GitHub: https://github.com/mumairnawaz
+### Find me around the web
+- **LinkedIn:** https://www.linkedin.com/in/umair-nawaz-data-analyst  
+- **Email:** umair.nawaz.dataanalyst@gmail.com  
+- **GitHub:** https://github.com/umairnawaz
+
+
