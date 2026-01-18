@@ -6,14 +6,9 @@ I'm a data analyst and business intelligence consultant who is deeply interested
 SQL · Power BI · Excel · Tableau · IBM SPSS  
 Data Warehousing · Star Schema · Fact & Dimension Modeling
 
----
 
-### Background
-I have hands-on experience working with business and operations teams, automating reporting workflows, validating data quality, and delivering insights that support decision-making across sales, finance, and operations.
 
----
-
-### Find me around the web
+# Find me around the web
 - **LinkedIn:** https://www.linkedin.com/in/umair-nawaz-data-analyst  
 - **Email:** umair.nawaz.dataanalyst@gmail.com  
 - **GitHub:** https://github.com/umairnawaz
