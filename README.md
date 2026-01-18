@@ -4,23 +4,6 @@ I'm a data analyst and business intelligence consultant who is deeply interested
 
 ---
 
-### Featured Work
-I share end-to-end analytics case studies that reflect real business problems — from raw data to insights and dashboards.
-
-- **E-commerce Sales Performance Analysis**  
-  Revenue trends, customer behavior, and product performance with actionable recommendations.
-
-- **Operations KPI & Performance Dashboard**  
-  SQL-driven KPI frameworks and executive reporting.
-
-- **Fraud Detection & Risk Analysis**  
-  Transaction-level analysis to identify anomalies and risk patterns.
-
-- **Pricing & Profitability Insights**  
-  Margin analysis and pricing decisions supported by data.
-
----
-
 ### Tools & Technologies
 SQL · Power BI · Excel · Tableau · IBM SPSS  
 Data Warehousing · Star Schema · Fact & Dimension Modeling
