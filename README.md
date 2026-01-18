@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Umair Nawaz 👋
 
-I'm a data analyst and business intelligence consultant who is deeply interested in turning complex, messy business data into clear insights, performance dashboards, and decision-ready analytics. I work on sales, operations, and customer data, focusing on KPI design, scalable reporting, and analytics solutions that help teams understand what’s happening, why it’s happening, and what to do next.
+I’m a data analyst focused on understanding why business performance changes, not just reporting metrics. I work on revenue analysis, customer behavior, product performance, and operational efficiency to help teams identify risks, explain declines, and make clearer decisions. My work emphasizes real-world case studies, executive-ready dashboards, and business-oriented insights.
 
 ## **Expertise In** 
 SQL · Power BI · Excel · Tableau · IBM SPSS  
