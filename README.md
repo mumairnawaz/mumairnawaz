@@ -1,133 +1,77 @@
+# Muhammad Umair Nawaz  
+**Data Analyst & BI Consultant**
 
-<h1 align="center">Hi, I'm Muhammad Umair Nawaz 👋</h1>
-<h3 align="center">Data Analyst & BI Consultant | Turning Data into Business Decisions</h3>
-
-<p align="center">
-Helping businesses identify revenue leaks, detect fraud patterns, and improve decision-making using SQL, Power BI, and advanced analytics.
-</p>
+I design data systems that transform fragmented operational data into structured, decision-ready insights — enabling businesses to monitor performance, identify inefficiencies, and make confident decisions.
 
 ---
 
-## 🚀 Impact & Results
+## ⚡ What I Deliver
 
-- 📊 Analyzed 50K+ transactions to uncover fraud patterns  
-- ⚡ Automated reporting workflows saving 30+ hours/month  
-- 📉 Identified key drivers behind revenue decline in e-commerce  
-- 📈 Built executive dashboards for real-time decision-making
-
----
-
-## 🧠 What I Do
-
-✔ Revenue Analysis & Business Insights  
-✔ Fraud Detection & Risk Analytics  
-✔ Customer Behavior Analysis  
-✔ Power BI Dashboard Development  
-✔ SQL Optimization & Data Modeling  
+- Analytics Automation — replacing manual reporting with scalable ETL workflows  
+- Data Warehousing — structuring raw data into reliable analytical models  
+- BI & Dashboards — building executive-ready reporting for decision-making  
+- Operational Analytics — identifying performance gaps, risks, and opportunities  
+- Data Integration — consolidating data from multiple systems into a single source of truth  
 
 ---
 
-## 📊 Featured Case Studies
+## 🧠 Expertise
 
-### 🔹 Real-Time Fraud Detection System
-- Built using SQL Server + Power BI  
-- Analyzed 50K+ transactions  
-- Detected anomalies and fraud patterns  
-- Delivered real-time monitoring dashboard  
+**BI & Analytics**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-👉 Focus: Risk reduction & proactive decision-making  
+**Data & Warehousing**  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+**Engineering & Modeling**  
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
+![Data Modeling](https://img.shields.io/badge/Star%20Schema-orange)
+![API](https://img.shields.io/badge/API-Integration-green)
 
-### 🔹 E-commerce Sales Decline Analysis
-- Identified revenue drop drivers across products & regions  
-- Performed deep SQL analysis on customer & sales data  
-- Delivered actionable insights for business recovery  
-
-👉 Focus: Revenue growth & performance optimization  
-
----
-
-### 🔹 Football Analytics Data Lakehouse
-- Built modern data architecture for sports analytics  
-- Analyzed team performance & competition trends  
-- Enabled advanced analytical insights using Python  
-
-👉 Focus: Scalable analytics & performance tracking  
+**Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 
 ---
 
-## 📸 Dashboard & Analytics Work
+## 📊 Selected Work
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard+Preview" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Fraud+Detection+Dashboard" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Sales+Analysis+Dashboard" />
-</p>
+- Designed analytics workflows to identify revenue leakage and performance gaps  
+- Built structured data models enabling consistent KPI tracking  
+- Developed reporting systems for real-time operational monitoring  
+- Transformed raw datasets into scalable analytics-ready data layers  
 
 ---
 
-## ⚙️ Tech Stack
+## 🧩 Approach
 
-Languages & Tools:  
-SQL | Power BI | Excel | Python  
-
-Concepts:  
-Data Modeling | ETL | Data Warehousing | Star Schema | Business Intelligence  
+Problem → Data → Modeling → Insights → Decisions  
 
 ---
 
-## 🧩 How I Work
+## 🏆 Experience
 
-1. Understand business problem  
-2. Collect & clean data  
-3. Analyze patterns using SQL/Python  
-4. Build dashboards in Power BI  
-5. Deliver actionable insights  
+- Data Analyst — i2c  
+- BI Consultant — Freelance  
 
 ---
 
-## 🏆 Experience & Achievements
+## 🔗 Links
 
-- 💼 Data Analyst at i2c  
-- 📊 Built performance dashboards & automated reporting systems  
-- ⚡ Improved reporting efficiency and decision-making processes  
-- 📜 Certified in Data Analysis & Business Intelligence  
+- LinkedIn → https://www.linkedin.com/in/mumair-nawaz  
+- Portfolio → https://contra.com/umairnawazbbb_ciss9n5j  
 
 ---
 
-## ✍️ Thought Leadership & Writing
+## 📩 Contact
 
-I regularly share insights on data analytics, dashboards, and business intelligence:
-
-👉 LinkedIn (Insights & Content):  
-https://www.linkedin.com/in/mumair-nawaz  
+umair.nawaz.dataanalyst@gmail.com  
 
 ---
 
-## 💼 Portfolio & Client Work
-
-Explore my live projects, case studies, and freelance work:
-
-👉 Contra (Portfolio):  
-https://contra.com/umairnawazbbb_ciss9n5j  
-
----
-
-## 📩 Let's Work Together
-
-- 📧 Email: umair.nawaz.dataanalyst@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/mumair-nawaz  
-- 💼 Available for freelance, consulting & full-time roles  
-
----
-
-<p align="center">
-⭐ If you find my work valuable, feel free to connect or collaborate!
-</p
+**Open for consulting, freelance, and full-time opportunities**
