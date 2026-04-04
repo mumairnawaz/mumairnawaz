@@ -1,17 +1,19 @@
 # Muhammad Umair Nawaz  
 **Data Analyst & BI Consultant**
 
-I design data systems that transform fragmented operational data into structured, decision-ready insights — enabling businesses to monitor performance, identify inefficiencies, and make confident decisions.
+> Turning complex operational data into structured analytics systems that drive performance, visibility, and decision-making.
+
+I design data systems that transform fragmented data into reliable, decision-ready insights — enabling businesses to monitor performance, identify inefficiencies, and act with clarity.
 
 ---
 
 ## ⚡ What I Deliver
 
-- Analytics Automation — replacing manual reporting with scalable ETL workflows  
-- Data Warehousing — structuring raw data into reliable analytical models  
-- BI & Dashboards — building executive-ready reporting for decision-making  
-- Operational Analytics — identifying performance gaps, risks, and opportunities  
-- Data Integration — consolidating data from multiple systems into a single source of truth  
+- Analytics Automation — eliminate manual reporting with production-grade ETL workflows  
+- Data Warehousing — build structured, reliable analytical data layers  
+- BI & Dashboards — deliver decision-ready reporting for stakeholders  
+- Operational Analytics — uncover inefficiencies, risks, and performance gaps  
+- Data Integration — unify fragmented data into a single source of truth  
 
 ---
 
@@ -41,16 +43,22 @@ I design data systems that transform fragmented operational data into structured
 
 ## 📊 Selected Work
 
-- Designed analytics workflows to identify revenue leakage and performance gaps  
-- Built structured data models enabling consistent KPI tracking  
-- Developed reporting systems for real-time operational monitoring  
-- Transformed raw datasets into scalable analytics-ready data layers  
+- Designed analytics systems to improve visibility into revenue and operational performance  
+- Built data models enabling consistent KPI tracking across business functions  
+- Developed reporting workflows supporting real-time monitoring and faster decision cycles  
+- Structured raw operational data into scalable, analytics-ready data environments  
+
+---
+
+## 📸 Dashboard & Reporting
+
+![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard)
 
 ---
 
 ## 🧩 Approach
 
-Problem → Data → Modeling → Insights → Decisions  
+**Problem → Data → Modeling → Insights → Decisions**
 
 ---
 
