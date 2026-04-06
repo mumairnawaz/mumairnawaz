@@ -52,24 +52,17 @@ I specialize in building structured data environments, automated reporting syste
 
 ## 📸 Dashboard & Reporting
 
-### Revenue & Performance Dashboard
-![Revenue Dashboard](https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png)
+<p align="left">
+  <img src="LINK1" width="32%" />
+  <img src="LINK2" width="32%" />
+  <img src="LINK3" width="32%" />
+</p>
 
-> Executive-level dashboard tracking revenue trends, KPIs, and performance breakdowns.
-
----
-
-### Fraud & Risk Monitoring
-![Fraud Dashboard](https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png)
-
-> Real-time monitoring of anomalies, transaction patterns, and risk indicators.
-
----
-
-### Operational Analytics Dashboard
-![Operations Dashboard](https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png)
-
-> Insights into operational efficiency, workflow performance, and system activity.
+<p align="left">
+<sub>Revenue & Performance Dashboard</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Fraud Detection Dashboard</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Operational Analytics Dashboard</sub>
+</p>
 
 ---
 
