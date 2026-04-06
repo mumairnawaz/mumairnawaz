@@ -43,10 +43,21 @@ I specialize in building structured data environments, automated reporting syste
 
 ## 📊 Professional Work
 
-- Designed analytics systems improving visibility into revenue and operational performance  
-- Built scalable data models supporting consistent KPI tracking across business units  
-- Developed reporting frameworks enabling real-time monitoring and faster decision cycles  
-- Transformed fragmented operational data into structured analytics-ready environments  
+- **Revenue & Sales Analytics**  
+  → Designed systems improving visibility into revenue trends and performance  
+  🔗 https://github.com/your-repo-link
+
+- **Fraud Detection & Risk Analysis**  
+  → Built analytics workflows for identifying anomalies and transaction risks  
+  🔗 https://github.com/your-repo-link
+
+- **Data Warehousing & Modeling**  
+  → Developed scalable data models for KPI tracking and reporting  
+  🔗 https://github.com/your-repo-link
+
+- **Operational Performance Analytics**  
+  → Structured raw operational data into analytics-ready environments  
+  🔗 https://github.com/your-repo-link
 
 ---
 
