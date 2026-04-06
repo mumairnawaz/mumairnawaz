@@ -50,9 +50,6 @@ I specialize in building structured data environments, automated reporting syste
 
 ---
 
-
-## 📸 Dashboard & Reporting
-
 ## 📸 Dashboard & Reporting
 
 <table>
