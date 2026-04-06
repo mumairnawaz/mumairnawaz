@@ -134,7 +134,20 @@ for decision-making
 
 ## 🧩 Approach
 
-**Problem → Data → Modeling → Insights → Decisions**
+<table>
+<tr>
+<td align="center">🧠<br><b>Problem</b></td>
+<td align="center">📊<br><b>Data</b></td>
+<td align="center">🏗️<br><b>Modeling</b></td>
+<td align="center">📈<br><b>Insights</b></td>
+<td align="center">🎯<br><b>Decisions</b></td>
+</tr>
+</table>
+
+<sub>
+Define business problem → Collect & prepare data → Build structured models → Generate insights → Enable decisions
+</sub>
+
 
 ---
 
