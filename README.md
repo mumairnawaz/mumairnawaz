@@ -45,41 +45,49 @@ I specialize in building structured data environments, automated reporting syste
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 Revenue & Sales Analytics  
-Designed analytics systems to identify revenue decline drivers and performance gaps  
+<sub>Designed analytics systems to identify revenue decline drivers and performance gaps</sub>  
 
-🔗 <a href="https://github.com/mumairnawaz/sales-decline-analysis">View Project</a>
+<br>
+
+👉 <a href="https://github.com/mumairnawaz/sales-decline-analysis"><b>View Case Study →</b></a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚨 Fraud Detection & Risk Analysis  
-Built analytics workflows for identifying anomalies and transaction risk patterns  
+<sub>Built analytics workflows for identifying anomalies and transaction risk patterns</sub>  
 
-🔗 <a href="https://github.com/mumairnawaz/fraud-detection-analytics-system">View Project</a>
+<br>
+
+👉 <a href="https://github.com/mumairnawaz/fraud-detection-analytics-system"><b>View Case Study →</b></a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏗️ Data Warehousing & Modeling  
-Developed scalable data models and pipelines for analytics and reporting  
+<sub>Developed scalable data models and pipelines for analytics and reporting</sub>  
 
-🔗 <a href="https://github.com/mumairnawaz/football-analytics-warehouse">View Project</a>
+<br>
+
+👉 <a href="https://github.com/mumairnawaz/football-analytics-warehouse"><b>View Case Study →</b></a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Operational Performance Analytics  
-Structured operational data into analytics-ready environments for decision-making  
+<sub>Structured operational data into analytics-ready environments for decision-making</sub>  
 
-🔗 <a href="https://github.com/mumairnawaz/Operations-analyst-case-study">View Project</a>
+<br>
+
+👉 <a href="https://github.com/mumairnawaz/Operations-analyst-case-study"><b>View Case Study →</b></a>
 
 </td>
 </tr>
