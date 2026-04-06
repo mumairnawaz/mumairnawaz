@@ -171,4 +171,4 @@ Define business problem → Collect & prepare data → Build structured models �
 
 ---
 
-### ⭐ Available for consulting, freelance, and data analytics engagements
+###  Available for consulting, freelance, and data analytics engagements
