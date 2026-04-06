@@ -154,8 +154,14 @@ Define business problem → Collect & prepare data → Build structured models �
 ## 🏆 Experience
 
 - **Data Analyst — i2c**  
-- **BI Consultant — Freelance**
+  <sub>Working on analytics systems, reporting automation, and operational data insights</sub>  
+  🔗 <a href="https://www.i2cinc.com/"><b>Company Profile →</b></a>
 
+- **BI Consultant — Freelance**  
+  <sub>Delivering data analytics, dashboard solutions, and BI consulting for clients</sub>  
+  🔗 <a href="https://contra.com/umairnawazbbb_ciss9n5j"><b>View Portfolio →</b></a>
+
+  
 ---
 
 ## 🔗 Professional Links
