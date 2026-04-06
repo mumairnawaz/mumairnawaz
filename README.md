@@ -1,5 +1,6 @@
 # Muhammad Umair Nawaz  
 ### Data Analyst & BI Consultant  
+> Helping businesses design scalable data systems that drive performance, reduce risk, and enable smarter decisions.
 
 > **Designing scalable analytics systems that transform raw data into decision-ready intelligence.**
 
@@ -109,7 +110,7 @@ for decision-making
 
 ---
 
-## 📸 Dashboard & Reporting
+## 📸 Analytics & Dashboard Portfolio
 
 <table>
 <tr>
