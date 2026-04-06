@@ -1,19 +1,19 @@
 # Muhammad Umair Nawaz  
-**Data Analyst & BI Consultant**
+### Data Analyst & BI Consultant  
 
-> Turning complex operational data into structured analytics systems that drive performance, visibility, and decision-making.
+> **Designing scalable analytics systems that transform raw data into decision-ready intelligence.**
 
-I design data systems that transform fragmented data into reliable, decision-ready insights — enabling businesses to monitor performance, identify inefficiencies, and act with clarity.
+I specialize in building structured data environments, automated reporting systems, and business intelligence solutions that enable organizations to monitor performance, identify inefficiencies, and make confident, data-driven decisions.
 
 ---
 
-## ⚡ What I Deliver
+## ⚡ Core Capabilities
 
-- Analytics Automation — eliminate manual reporting with production-grade ETL workflows  
-- Data Warehousing — build structured, reliable analytical data layers  
-- BI & Dashboards — deliver decision-ready reporting for stakeholders  
-- Operational Analytics — uncover inefficiencies, risks, and performance gaps  
-- Data Integration — unify fragmented data into a single source of truth  
+- **Analytics Automation** — eliminate manual reporting through production-grade ETL workflows  
+- **Data Warehousing** — design structured, scalable analytical data models  
+- **BI & Dashboards** — deliver executive-ready insights for decision-making  
+- **Operational Analytics** — identify inefficiencies, risks, and performance gaps  
+- **Data Integration** — unify fragmented systems into a single source of truth  
 
 ---
 
@@ -41,18 +41,18 @@ I design data systems that transform fragmented data into reliable, decision-rea
 
 ---
 
-## 📊 Selected Work
+## 📊 Professional Work
 
-- Designed analytics systems to improve visibility into revenue and operational performance  
-- Built data models enabling consistent KPI tracking across business functions  
-- Developed reporting workflows supporting real-time monitoring and faster decision cycles  
-- Structured raw operational data into scalable, analytics-ready data environments  
+- Designed analytics systems improving visibility into revenue and operational performance  
+- Built scalable data models supporting consistent KPI tracking across business units  
+- Developed reporting frameworks enabling real-time monitoring and faster decision cycles  
+- Transformed fragmented operational data into structured analytics-ready environments  
 
 ---
 
 ## 📸 Dashboard & Reporting
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard)
+![Dashboard Preview](https://via.placeholder.com/900x400.png?text=Power+BI+Executive+Dashboard)
 
 ---
 
@@ -64,12 +64,12 @@ I design data systems that transform fragmented data into reliable, decision-rea
 
 ## 🏆 Experience
 
-- Data Analyst — i2c  
-- BI Consultant — Freelance  
+- **Data Analyst — i2c**  
+- **BI Consultant — Freelance**
 
 ---
 
-## 🔗 Links
+## 🔗 Professional Links
 
 - LinkedIn → https://www.linkedin.com/in/mumair-nawaz  
 - Portfolio → https://contra.com/umairnawazbbb_ciss9n5j  
@@ -78,8 +78,8 @@ I design data systems that transform fragmented data into reliable, decision-rea
 
 ## 📩 Contact
 
-umair.nawaz.dataanalyst@gmail.com  
+📧 umair.nawaz.dataanalyst@gmail.com  
 
 ---
 
-**Open for consulting, freelance, and full-time opportunities**
+### ⭐ Available for consulting, freelance, and data analytics engagements
