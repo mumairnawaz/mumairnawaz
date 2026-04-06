@@ -43,21 +43,47 @@ I specialize in building structured data environments, automated reporting syste
 
 ## 📊 Professional Work
 
-- **Revenue & Sales Analytics**  
-  → Designed systems improving visibility into revenue trends and performance  
-  🔗 https://github.com/your-repo-link
+<table>
+<tr>
+<td width="50%">
 
-- **Fraud Detection & Risk Analysis**  
-  → Built analytics workflows for identifying anomalies and transaction risks  
-  🔗 https://github.com/your-repo-link
+### 📈 Revenue & Sales Analytics  
+Designed analytics systems to identify revenue decline drivers and performance gaps  
 
-- **Data Warehousing & Modeling**  
-  → Developed scalable data models for KPI tracking and reporting  
-  🔗 https://github.com/your-repo-link
+🔗 <a href="https://github.com/mumairnawaz/sales-decline-analysis">View Project</a>
 
-- **Operational Performance Analytics**  
-  → Structured raw operational data into analytics-ready environments  
-  🔗 https://github.com/your-repo-link
+</td>
+
+<td width="50%">
+
+### 🚨 Fraud Detection & Risk Analysis  
+Built analytics workflows for identifying anomalies and transaction risk patterns  
+
+🔗 <a href="https://github.com/mumairnawaz/fraud-detection-analytics-system">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ Data Warehousing & Modeling  
+Developed scalable data models and pipelines for analytics and reporting  
+
+🔗 <a href="https://github.com/mumairnawaz/football-analytics-warehouse">View Project</a>
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Operational Performance Analytics  
+Structured operational data into analytics-ready environments for decision-making  
+
+🔗 <a href="https://github.com/mumairnawaz/Operations-analyst-case-study">View Project</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
