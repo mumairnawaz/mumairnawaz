@@ -43,27 +43,35 @@ I specialize in building structured data environments, automated reporting syste
 
 ## 📊 Professional Work
 
+> Selected analytics work focused on business performance, risk detection, and scalable data systems.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Revenue & Sales Analytics  
-<sub>Designed analytics systems to identify revenue decline drivers and performance gaps</sub>  
+### 📈 Revenue Intelligence & Sales Analytics  
+<sub>
+Designed analytics systems to identify revenue decline drivers  
+and performance gaps
+</sub>
 
 <br>
 
-👉 <a href="https://github.com/mumairnawaz/sales-decline-analysis"><b>View Case Study →</b></a>
+🔗 <a href="https://github.com/mumairnawaz/sales-decline-analysis"><b>View Case Study →</b></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚨 Fraud Detection & Risk Analysis  
-<sub>Built analytics workflows for identifying anomalies and transaction risk patterns</sub>  
+### 🚨 Fraud Detection & Risk Analytics  
+<sub>
+Built analytics workflows for identifying anomalies  
+and transaction risk patterns
+</sub>
 
 <br>
 
-👉 <a href="https://github.com/mumairnawaz/fraud-detection-analytics-system"><b>View Case Study →</b></a>
+🔗 <a href="https://github.com/mumairnawaz/fraud-detection-analytics-system"><b>View Case Study →</b></a>
 
 </td>
 </tr>
@@ -71,23 +79,29 @@ I specialize in building structured data environments, automated reporting syste
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Data Warehousing & Modeling  
-<sub>Developed scalable data models and pipelines for analytics and reporting</sub>  
+### 🏗️ Data Warehousing & Analytical Modeling  
+<sub>
+Developed scalable data models and pipelines  
+for analytics and reporting
+</sub>
 
 <br>
 
-👉 <a href="https://github.com/mumairnawaz/football-analytics-warehouse"><b>View Case Study →</b></a>
+🔗 <a href="https://github.com/mumairnawaz/football-analytics-warehouse"><b>View Case Study →</b></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Operational Performance Analytics  
-<sub>Structured operational data into analytics-ready environments for decision-making</sub>  
+### ⚙️ Operational Performance & Efficiency Analytics  
+<sub>
+Structured operational data into analytics-ready environments  
+for decision-making
+</sub>
 
 <br>
 
-👉 <a href="https://github.com/mumairnawaz/Operations-analyst-case-study"><b>View Case Study →</b></a>
+🔗 <a href="https://github.com/mumairnawaz/Operations-analyst-case-study"><b>View Case Study →</b></a>
 
 </td>
 </tr>
