@@ -50,12 +50,13 @@ I specialize in building structured data environments, automated reporting syste
 
 ---
 
+
 ## 📸 Dashboard & Reporting
 
 <p align="left">
-  <img src="LINK1" width="32%" />
-  <img src="LINK2" width="32%" />
-  <img src="LINK3" width="32%" />
+  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" width="32%">
+  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" width="32%">
+  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" width="32%">
 </p>
 
 <p align="left">
