@@ -111,33 +111,93 @@ for decision-making
 
 ## 📸 Analytics & Dashboard Portfolio
 
-<table>
-<tr>
-<td align="center">
-<div style="width:350px; height:220px; display:flex; align-items:center; justify-content:center; background-color:#0d1117;">
-  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" 
-       style="max-width:100%; max-height:100%; object-fit:contain;">
-</div>
-<br><sub><b>Revenue & Performance</b></sub>
-</td>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard Showcase</title>
+<style>
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #0d1117;
+    color: #fff;
+  }
 
-<td align="center">
-<div style="width:350px; height:220px; display:flex; align-items:center; justify-content:center; background-color:#0d1117;">
-  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" 
-       style="max-width:100%; max-height:100%; object-fit:contain;">
-</div>
-<br><sub><b>Fraud & Risk Monitoring</b></sub>
-</td>
+  h1 {
+    text-align: center;
+    margin: 30px 0;
+    font-size: 2em;
+  }
 
-<td align="center">
-<div style="width:350px; height:220px; display:flex; align-items:center; justify-content:center; background-color:#0d1117;">
-  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" 
-       style="max-width:100%; max-height:100%; object-fit:contain;">
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    background-color: #161b22;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .card img {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+    display: block;
+  }
+
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.6);
+  }
+
+  .card:hover img {
+    transform: scale(1.1);
+  }
+
+  .caption {
+    text-align: center;
+    padding: 10px 0;
+    font-weight: bold;
+    font-size: 1em;
+    color: #fff;
+  }
+</style>
+</head>
+<body>
+
+<h1>Dashboard Showcase</h1>
+
+<div class="grid-container">
+  <div class="card">
+    <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" alt="Revenue & Performance">
+    <div class="caption">Revenue & Performance</div>
+  </div>
+
+  <div class="card">
+    <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" alt="Fraud & Risk Monitoring">
+    <div class="caption">Fraud & Risk Monitoring</div>
+  </div>
+
+  <div class="card">
+    <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" alt="Operational Analytics">
+    <div class="caption">Operational Analytics</div>
+  </div>
 </div>
-<br><sub><b>Operational Analytics</b></sub>
-</td>
-</tr>
-</table>
+
+</body>
+</html>
 
 ---
 
