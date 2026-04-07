@@ -114,18 +114,27 @@ for decision-making
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" width="350" height="260"><br>
-<sub><b>Revenue & Performance</b></sub>
+<div style="width:350px; height:220px; overflow:hidden;">
+  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" 
+       style="width:100%; height:100%; object-fit:cover;">
+</div>
+<br><sub><b>Revenue & Performance</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" width="350" height="260"><br>
-<sub><b>Fraud & Risk Monitoring</b></sub>
+<div style="width:350px; height:220px; overflow:hidden;">
+  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" 
+       style="width:100%; height:100%; object-fit:cover;">
+</div>
+<br><sub><b>Fraud & Risk Monitoring</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" width="350" height="260"><br>
-<sub><b>Operational Analytics</b></sub>
+<div style="width:350px; height:220px; overflow:hidden;">
+  <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" 
+       style="width:100%; height:100%; object-fit:cover;">
+</div>
+<br><sub><b>Operational Analytics</b></sub>
 </td>
 </tr>
 </table>
