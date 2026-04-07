@@ -129,7 +129,6 @@ for decision-making
 </td>
 </tr>
 </table>
-</table>
 
 ---
 
