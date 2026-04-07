@@ -114,25 +114,25 @@ for decision-making
 <table>
 <tr>
 <td align="center">
-<div style="width:350px; height:220px; overflow:hidden;">
+<div style="width:350px; height:220px; display:flex; align-items:center; justify-content:center; background-color:#0d1117;">
   <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" 
-       style="width:100%; height:100%; object-fit:cover;">
+       style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
 <br><sub><b>Revenue & Performance</b></sub>
 </td>
 
 <td align="center">
-<div style="width:350px; height:220px; overflow:hidden;">
+<div style="width:350px; height:220px; display:flex; align-items:center; justify-content:center; background-color:#0d1117;">
   <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" 
-       style="width:100%; height:100%; object-fit:cover;">
+       style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
 <br><sub><b>Fraud & Risk Monitoring</b></sub>
 </td>
 
 <td align="center">
-<div style="width:350px; height:220px; overflow:hidden;">
+<div style="width:350px; height:220px; display:flex; align-items:center; justify-content:center; background-color:#0d1117;">
   <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" 
-       style="width:100%; height:100%; object-fit:cover;">
+       style="max-width:100%; max-height:100%; object-fit:contain;">
 </div>
 <br><sub><b>Operational Analytics</b></sub>
 </td>
