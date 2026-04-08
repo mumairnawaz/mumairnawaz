@@ -7,7 +7,7 @@ I specialize in building structured data environments, automated reporting syste
 
 ---
 
-## ⚡ Core Capabilities
+##  Core Capabilities
 
 - **Analytics Automation** — eliminate manual reporting through production-grade ETL workflows  
 - **Data Warehousing** — design structured, scalable analytical data models  
@@ -17,7 +17,7 @@ I specialize in building structured data environments, automated reporting syste
 
 ---
 
-## 🧠 Expertise
+##  Expertise
 
 **BI & Analytics**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -41,7 +41,7 @@ I specialize in building structured data environments, automated reporting syste
 
 ---
 
-## 📊 Professional Work
+##  Professional Work
 
 > Selected analytics work focused on business performance, risk detection, and scalable data systems.
 
@@ -63,7 +63,7 @@ and performance gaps
 
 <td width="50%" valign="top">
 
-### 🚨 Fraud Detection & Risk Analytics  
+###  Fraud Detection & Risk Analytics  
 <sub>
 Built analytics workflows for identifying anomalies  
 and transaction risk patterns
@@ -79,7 +79,7 @@ and transaction risk patterns
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Data Warehousing & Analytical Modeling  
+###  Data Warehousing & Analytical Modeling  
 <sub>
 Developed scalable data models and pipelines  
 for analytics and reporting
@@ -93,7 +93,7 @@ for analytics and reporting
 
 <td width="50%" valign="top">
 
-### ⚙️ Operational Performance & Efficiency Analytics  
+###  Operational Performance & Efficiency Analytics  
 <sub>
 Structured operational data into analytics-ready environments  
 for decision-making
@@ -109,12 +109,12 @@ for decision-making
 
 ---
 
-## 📸 Analytics & Dashboard Portfolio
+##  Analytics & Dashboard Portfolio
 
 <table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" height="240"><br> <sub><b>Revenue & Performance</b></sub> </td> <td align="center"> <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" height="240"><br> <sub><b>Fraud & Risk Monitoring</b></sub> </td> <td align="center"> <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" height="240"><br> <sub><b>Operational Analytics</b></sub> </td> </tr> </table>
 ---
 
-## 🧩 Approach
+##  Approach
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ Define business problem → Collect & prepare data → Build structured models �
 
 ---
 
-## 🏆 Experience
+##  Experience
 
 - **Data Analyst — i2c**  
   <sub>Working on analytics systems, reporting automation, and operational data insights</sub>  
@@ -146,14 +146,14 @@ Define business problem → Collect & prepare data → Build structured models �
   
 ---
 
-## 🔗 Professional Links
+##  Professional Links
 
 - LinkedIn → https://www.linkedin.com/in/mumair-nawaz  
 - Portfolio → https://contra.com/umairnawazbbb_ciss9n5j  
 
 ---
 
-## 📩 Contact
+##  Contact
 
 📧 umair.nawaz.dataanalyst@gmail.com  
 
