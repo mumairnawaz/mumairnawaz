@@ -153,10 +153,5 @@ Define business problem → Collect & prepare data → Build structured models �
 
 ---
 
-##  Contact
-
-📧 umair.nawaz.dataanalyst@gmail.com  
-
----
 
 ###  Available for consulting, freelance, and data analytics engagements
