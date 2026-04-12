@@ -148,21 +148,20 @@ for decision-making
 
 <td align="center" width="33%">
 
-<a href="https://github.com/mumairnawaz/Operations-analyst-case-study">
+<<td align="center" width="33%">
+
+<a href="https://github.com/mumairnawaz/aviation-risk-analytics">
 <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" height="180" style="object-fit:cover;">
 </a>
 
 <br>
-<b>Operational Performance Insights</b>
+<b>Aviation Risk Analytics</b>
 <br>
-<sub>Power BI • SQL • Excel</sub>
+<sub>Power BI • Python • SQL</sub>
 <br>
-<sub>Performance & efficiency analytics</sub>
+<sub>Accident trends & risk pattern analysis</sub>
 
 </td>
-
-</tr>
-</table>
 
 ---
 
