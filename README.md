@@ -168,18 +168,20 @@ for decision-making
 
 ##  Approach
 
+> A structured analytics framework to transform raw data into business decisions.
+
 <table>
 <tr>
-<td align="center">🧠<br><b>Problem</b></td>
-<td align="center">📊<br><b>Data</b></td>
-<td align="center">🏗️<br><b>Modeling</b></td>
-<td align="center">📈<br><b>Insights</b></td>
-<td align="center">🎯<br><b>Decisions</b></td>
+<td align="center">🧩<br><b>Problem Definition</b><br><sub>Identify business goals</sub></td>
+<td align="center">📊<br><b>Data Preparation</b><br><sub>Clean & structure data</sub></td>
+<td align="center">🏗️<br><b>Modeling</b><br><sub>Build scalable data models</sub></td>
+<td align="center">📈<br><b>Insights</b><br><sub>Analyze trends & patterns</sub></td>
+<td align="center">🎯<br><b>Decision Enablement</b><br><sub>Drive business actions</sub></td>
 </tr>
 </table>
 
 <sub>
-Define business problem → Collect & prepare data → Build structured models → Generate insights → Enable decisions
+From problem definition to decision-making — ensuring every analysis delivers measurable business impact.
 </sub>
 
 
