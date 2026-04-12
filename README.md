@@ -122,12 +122,10 @@ for decision-making
 <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" height="180" style="object-fit:cover;">
 </a>
 
-<br><br>
+<br>
 <b>Revenue Intelligence</b>
-
 <br>
 <sub>Power BI • SQL • DAX</sub>
-
 <br>
 <sub>Revenue trends & KPI insights</sub>
 
@@ -139,12 +137,10 @@ for decision-making
 <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" height="180" style="object-fit:cover;">
 </a>
 
-<br><br>
+<br>
 <b>Fraud & Risk Monitoring</b>
-
 <br>
 <sub>Power BI • Python • APIs</sub>
-
 <br>
 <sub>Anomaly detection & risk tracking</sub>
 
@@ -156,12 +152,10 @@ for decision-making
 <img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" height="180" style="object-fit:cover;">
 </a>
 
-<br><br>
+<br>
 <b>Operational Performance Insights</b>
-
 <br>
 <sub>Power BI • SQL • Excel</sub>
-
 <br>
 <sub>Performance & efficiency analytics</sub>
 
@@ -170,6 +164,7 @@ for decision-making
 </tr>
 </table>
 
+---
 
 ##  Approach
 
