@@ -111,8 +111,6 @@ for decision-making
 
 ##  Analytics & Dashboard Portfolio
 
-## 📊 Analytics & Dashboard Portfolio
-
 > Interactive dashboards designed to transform complex data into actionable business insights.
 
 <table>
@@ -121,51 +119,51 @@ for decision-making
 <td align="center" width="33%">
 
 <a href="https://github.com/mumairnawaz/sales-decline-analysis">
-<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" height="200">
+<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Revenue%20%26%20Performance%20Dashboard.png" height="180" style="object-fit:cover;">
 </a>
 
-<br>
+<br><br>
 <b>Revenue Intelligence</b>
 
-<sub>
-Power BI • SQL • DAX  
 <br>
-Revenue trends & KPI insights
-</sub>
+<sub>Power BI • SQL • DAX</sub>
+
+<br>
+<sub>Revenue trends & KPI insights</sub>
 
 </td>
 
 <td align="center" width="33%">
 
 <a href="https://github.com/mumairnawaz/fraud-detection-analytics-system">
-<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" height="200">
+<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Fraud%20Detection%20Dashbaord.png" height="180" style="object-fit:cover;">
 </a>
 
-<br>
+<br><br>
 <b>Fraud & Risk Monitoring</b>
 
-<sub>
-Power BI • Python • APIs  
 <br>
-Anomaly detection & risk tracking
-</sub>
+<sub>Power BI • Python • APIs</sub>
+
+<br>
+<sub>Anomaly detection & risk tracking</sub>
 
 </td>
 
 <td align="center" width="33%">
 
 <a href="https://github.com/mumairnawaz/Operations-analyst-case-study">
-<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" height="200">
+<img src="https://raw.githubusercontent.com/mumairnawaz/mumairnawaz/main/assets/Aviation%20Analytics.png" height="180" style="object-fit:cover;">
 </a>
 
-<br>
+<br><br>
 <b>Operational Performance Insights</b>
 
-<sub>
-Power BI • SQL • Excel  
 <br>
-Performance & efficiency analytics
-</sub>
+<sub>Power BI • SQL • Excel</sub>
+
+<br>
+<sub>Performance & efficiency analytics</sub>
 
 </td>
 
