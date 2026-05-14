@@ -1,5 +1,5 @@
 # Muhammad Umair Nawaz  
-### Data Analyst & BI Consultant  
+### Data Analyst & BI Engineer  
 
 > **Designing scalable analytics systems that transform raw data into decision-ready intelligence.**
 
