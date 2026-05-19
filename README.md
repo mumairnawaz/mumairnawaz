@@ -74,14 +74,17 @@ End-to-end Azure data engineering solution using Medallion Architecture, Delta L
 
 <td width="50%" valign="top">
 
-
- Data Engineering  
+<strong>DATA ENGINEERING</strong><br>
 Azure Data Factory • Databricks • ADLS Gen2  
 
- Data Architecture  
+<br>
+
+<strong>DATA ARCHITECTURE</strong><br>
 Medallion Architecture • Delta Lake • Data Modeling  
 
- Analytics & BI  
+<br>
+
+<strong>ANALYTICS & BI</strong><br>
 SQL • Power BI • Reporting Dashboards  
 
 </td>
@@ -103,14 +106,17 @@ Identified revenue decline drivers and performance gaps using BI-driven analysis
 
 <td width="50%" valign="top">
 
-
- Data Analysis  
+<strong>DATA ANALYSIS</strong><br>
 SQL • Excel • Data Extraction  
 
- Business Intelligence  
+<br>
+
+<strong>BUSINESS INTELLIGENCE</strong><br>
 Power BI • KPI Dashboards • Data Visualization  
 
- Insight Generation  
+<br>
+
+<strong>INSIGHT GENERATION</strong><br>
 Root Cause Analysis • Trend Analysis • Business Reporting  
 
 </td>
@@ -132,14 +138,17 @@ Built anomaly detection workflows for identifying transaction risks and suspicio
 
 <td width="50%" valign="top">
 
-
- Data Processing  
+<strong>DATA PROCESSING</strong><br>
 SQL • Python • Data Cleaning  
 
- Risk Analytics  
+<br>
+
+<strong>RISK ANALYTICS</strong><br>
 Anomaly Detection • Statistical Analysis • Fraud Detection  
 
- BI & Reporting  
+<br>
+
+<strong>BI & REPORTING</strong><br>
 Power BI • Risk Dashboards • Data Validation  
 
 </td>
@@ -161,14 +170,17 @@ Designed scalable data models and ETL pipelines for analytics and reporting.
 
 <td width="50%" valign="top">
 
-
- Data Modeling  
+<strong>DATA MODELING</strong><br>
 Star Schema • Snowflake Schema • Dimensional Modeling  
 
- Data Engineering  
+<br>
+
+<strong>DATA ENGINEERING</strong><br>
 ETL Design • SQL Transformations • Data Pipelines  
 
- Architecture  
+<br>
+
+<strong>ARCHITECTURE</strong><br>
 Data Warehouse Design • Reporting Layer Design  
 
 </td>
@@ -190,21 +202,23 @@ Built operational dashboards to improve decision-making and efficiency tracking.
 
 <td width="50%" valign="top">
 
-
- Analytics  
+<strong>ANALYTICS</strong><br>
 SQL • KPI Tracking • Data Aggregation  
 
- Business Intelligence  
+<br>
+
+<strong>BUSINESS INTELLIGENCE</strong><br>
 Power BI • Dashboard Design • Reporting  
 
- Operations Insight  
+<br>
+
+<strong>OPERATIONS INSIGHT</strong><br>
 Process Analysis • Efficiency Metrics • Performance Monitoring  
 
 </td>
 </tr>
 
 </table>
-
 ##  Analytics & Dashboard Portfolio
 
 > Interactive dashboards designed to transform complex data into actionable business insights.
