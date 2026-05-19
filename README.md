@@ -75,13 +75,13 @@ End-to-end Azure data engineering solution using Medallion Architecture, Delta L
 <td width="50%" valign="top">
 
 
-🟦 Data Engineering  
+ Data Engineering  
 Azure Data Factory • Databricks • ADLS Gen2  
 
-🟩 Data Architecture  
+ Data Architecture  
 Medallion Architecture • Delta Lake • Data Modeling  
 
-🟨 Analytics & BI  
+ Analytics & BI  
 SQL • Power BI • Reporting Dashboards  
 
 </td>
@@ -104,13 +104,13 @@ Identified revenue decline drivers and performance gaps using BI-driven analysis
 <td width="50%" valign="top">
 
 
-🟦 Data Analysis  
+ Data Analysis  
 SQL • Excel • Data Extraction  
 
-🟩 Business Intelligence  
+ Business Intelligence  
 Power BI • KPI Dashboards • Data Visualization  
 
-🟨 Insight Generation  
+ Insight Generation  
 Root Cause Analysis • Trend Analysis • Business Reporting  
 
 </td>
@@ -133,13 +133,13 @@ Built anomaly detection workflows for identifying transaction risks and suspicio
 <td width="50%" valign="top">
 
 
-🟦 Data Processing  
+ Data Processing  
 SQL • Python • Data Cleaning  
 
-🟩 Risk Analytics  
+ Risk Analytics  
 Anomaly Detection • Statistical Analysis • Fraud Detection  
 
-🟨 BI & Reporting  
+ BI & Reporting  
 Power BI • Risk Dashboards • Data Validation  
 
 </td>
@@ -162,13 +162,13 @@ Designed scalable data models and ETL pipelines for analytics and reporting.
 <td width="50%" valign="top">
 
 
-🟦 Data Modeling  
+ Data Modeling  
 Star Schema • Snowflake Schema • Dimensional Modeling  
 
-🟩 Data Engineering  
+ Data Engineering  
 ETL Design • SQL Transformations • Data Pipelines  
 
-🟨 Architecture  
+ Architecture  
 Data Warehouse Design • Reporting Layer Design  
 
 </td>
@@ -191,13 +191,13 @@ Built operational dashboards to improve decision-making and efficiency tracking.
 <td width="50%" valign="top">
 
 
-🟦 Analytics  
+ Analytics  
 SQL • KPI Tracking • Data Aggregation  
 
-🟩 Business Intelligence  
+ Business Intelligence  
 Power BI • Dashboard Design • Reporting  
 
-🟨 Operations Insight  
+ Operations Insight  
 Process Analysis • Efficiency Metrics • Performance Monitoring  
 
 </td>
