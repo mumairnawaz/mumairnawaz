@@ -1,19 +1,21 @@
 # Muhammad Umair Nawaz  
-### Data Analyst & BI Engineer  
 
-> **Designing scalable analytics systems that transform raw data into decision-ready intelligence.**
+Data & Analytics Engineer specializing in Azure-based Lakehouse & BI solutions
 
-I specialize in building structured data environments, automated reporting systems, and business intelligence solutions that enable organizations to monitor performance, identify inefficiencies, and make confident, data-driven decisions.
+I specialize in building **end-to-end data solutions on Azure and traditional BI ecosystems**, focusing on scalable pipelines, structured data models, and executive-level dashboards that drive business decisions.
 
 ---
 
-##  Core Capabilities
+## Core Capabilities
 
-- **Analytics Automation** — eliminate manual reporting through production-grade ETL workflows  
-- **Data Warehousing** — design structured, scalable analytical data models  
-- **BI & Dashboards** — deliver executive-ready insights for decision-making  
-- **Operational Analytics** — identify inefficiencies, risks, and performance gaps  
-- **Data Integration** — unify fragmented systems into a single source of truth  
+- **Azure Data Engineering** — building scalable data pipelines using Azure Data Factory, Databricks, ADLS, and Delta Lake (Medallion Architecture)
+- **Lakehouse Architecture** — designing Bronze / Silver / Gold data layers for structured analytics systems  
+- **ETL/ELT Pipelines** — automated ingestion, transformation, and orchestration workflows  
+- **Analytics Automation** — eliminating manual reporting with cloud-based data workflows  
+- **Data Warehousing** — building structured and optimized analytical data models  
+- **BI & Dashboards (Power BI)** — delivering interactive, executive-ready insights  
+- **Operational Analytics** — identifying inefficiencies, risks, and performance gaps  
+- **Data Integration** — unifying multi-source data into a single source of truth  
 
 ---
 
