@@ -74,7 +74,7 @@ Built an end-to-end Azure data engineering solution using Medallion Architecture
 
 <td width="50%" valign="top">
 
-<strong>PROJECT IMPACT</strong><br>
+<strong</strong><br>
 
 • Built scalable end-to-end Azure data pipelines<br>
 • Designed production-grade lakehouse architecture<br>
@@ -99,7 +99,7 @@ Designed analytics systems to identify revenue decline drivers and performance g
 
 <td width="50%" valign="top">
 
-<strong>PROJECT IMPACT</strong><br>
+<strong</strong><br>
 
 • Identified key drivers of revenue decline<br>
 • Uncovered sales performance gaps across KPIs<br>
@@ -124,7 +124,7 @@ Built analytics workflows for identifying anomalies and transaction risk pattern
 
 <td width="50%" valign="top">
 
-<strong>PROJECT IMPACT</strong><br>
+<strong</strong><br>
 
 • Developed anomaly detection workflows<br>
 • Identified suspicious transaction patterns<br>
@@ -149,7 +149,7 @@ Developed scalable data models and pipelines for analytics and reporting.
 
 <td width="50%" valign="top">
 
-<strong>PROJECT IMPACT</strong><br>
+<strong</strong><br>
 
 • Designed scalable warehouse schema and models<br>
 • Built analytics-ready transformation pipelines<br>
@@ -174,7 +174,7 @@ Structured operational data into analytics-ready environments for decision-makin
 
 <td width="50%" valign="top">
 
-<strong>PROJECT IMPACT</strong><br>
+<strong</strong><br>
 
 • Built KPI dashboards for operational visibility<br>
 • Structured data for faster decision-making<br>
