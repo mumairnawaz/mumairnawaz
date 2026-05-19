@@ -8,7 +8,7 @@ I specialize in building **end-to-end data solutions on Azure and traditional BI
 
 ## Core Capabilities
 
-- **Azure Data Engineering** — building scalable data pipelines using Azure Data Factory, Databricks, ADLS, and Delta Lake (Medallion Architecture)  
+- **Azure Data Engineering** — building scalable data pipelines using Azure Data Factory, Databricks, ADLS, and Delta Lake 
 - **Lakehouse Architecture** — designing Bronze / Silver / Gold data layers for structured analytics systems  
 - **ETL/ELT Pipelines** — automated ingestion, transformation, and orchestration workflows  
 - **Analytics Automation** — eliminating manual reporting with cloud-based data workflows  
