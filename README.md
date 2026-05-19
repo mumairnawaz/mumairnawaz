@@ -74,7 +74,6 @@ End-to-end Azure data engineering solution using Medallion Architecture, Delta L
 
 <td width="50%" valign="top">
 
-**Skills Used**
 
 🟦 Data Engineering  
 Azure Data Factory • Databricks • ADLS Gen2  
@@ -104,7 +103,6 @@ Identified revenue decline drivers and performance gaps using BI-driven analysis
 
 <td width="50%" valign="top">
 
-**Skills Used**
 
 🟦 Data Analysis  
 SQL • Excel • Data Extraction  
@@ -134,7 +132,6 @@ Built anomaly detection workflows for identifying transaction risks and suspicio
 
 <td width="50%" valign="top">
 
-**Skills Used**
 
 🟦 Data Processing  
 SQL • Python • Data Cleaning  
@@ -164,7 +161,6 @@ Designed scalable data models and ETL pipelines for analytics and reporting.
 
 <td width="50%" valign="top">
 
-**Skills Used**
 
 🟦 Data Modeling  
 Star Schema • Snowflake Schema • Dimensional Modeling  
@@ -194,7 +190,6 @@ Built operational dashboards to improve decision-making and efficiency tracking.
 
 <td width="50%" valign="top">
 
-**Skills Used**
 
 🟦 Analytics  
 SQL • KPI Tracking • Data Aggregation  
