@@ -63,8 +63,7 @@ I specialize in building **end-to-end data solutions on Azure and traditional BI
 
 ### ☁️ Azure Crypto Analytics Lakehouse  
 <sub>
-Built an end-to-end Azure data engineering solution  
-using Medallion Architecture, Delta Lake, and Power BI
+End-to-end Azure data engineering solution using Medallion Architecture, Delta Lake, and Power BI.
 </sub>
 
 <br>
@@ -75,15 +74,46 @@ using Medallion Architecture, Delta Lake, and Power BI
 
 <td width="50%" valign="top">
 
+**Skills Used**
+
+🟦 Data Engineering  
+Azure Data Factory • Databricks • ADLS Gen2  
+
+🟩 Data Architecture  
+Medallion Architecture • Delta Lake • Data Modeling  
+
+🟨 Analytics & BI  
+SQL • Power BI • Reporting Dashboards  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 📈 Revenue Intelligence & Sales Analytics  
 <sub>
-Designed analytics systems to identify revenue decline drivers  
-and performance gaps
+Identified revenue decline drivers and performance gaps using BI-driven analysis.
 </sub>
 
 <br>
 
 🔗 <a href="https://github.com/mumairnawaz/sales-decline-analysis"><b>View Case Study →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+**Skills Used**
+
+🟦 Data Analysis  
+SQL • Excel • Data Extraction  
+
+🟩 Business Intelligence  
+Power BI • KPI Dashboards • Data Visualization  
+
+🟨 Insight Generation  
+Root Cause Analysis • Trend Analysis • Business Reporting  
 
 </td>
 </tr>
@@ -93,8 +123,7 @@ and performance gaps
 
 ### 🛡️ Fraud Detection & Risk Analytics  
 <sub>
-Built analytics workflows for identifying anomalies  
-and transaction risk patterns
+Built anomaly detection workflows for identifying transaction risks and suspicious patterns.
 </sub>
 
 <br>
@@ -105,15 +134,16 @@ and transaction risk patterns
 
 <td width="50%" valign="top">
 
-### 🏗️ Data Warehousing & Analytical Modeling  
-<sub>
-Developed scalable data models and pipelines  
-for analytics and reporting
-</sub>
+**Skills Used**
 
-<br>
+🟦 Data Processing  
+SQL • Python • Data Cleaning  
 
-🔗 <a href="https://github.com/mumairnawaz/football-analytics-warehouse"><b>View Case Study →</b></a>
+🟩 Risk Analytics  
+Anomaly Detection • Statistical Analysis • Fraud Detection  
+
+🟨 BI & Reporting  
+Power BI • Risk Dashboards • Data Validation  
 
 </td>
 </tr>
@@ -121,10 +151,39 @@ for analytics and reporting
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Operational Performance & Efficiency Analytics  
+### 🏗️ Data Warehousing & Analytical Modeling  
 <sub>
-Structured operational data into analytics-ready environments  
-for decision-making
+Designed scalable data models and ETL pipelines for analytics and reporting.
+</sub>
+
+<br>
+
+🔗 <a href="https://github.com/mumairnawaz/football-analytics-warehouse"><b>View Case Study →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+**Skills Used**
+
+🟦 Data Modeling  
+Star Schema • Snowflake Schema • Dimensional Modeling  
+
+🟩 Data Engineering  
+ETL Design • SQL Transformations • Data Pipelines  
+
+🟨 Architecture  
+Data Warehouse Design • Reporting Layer Design  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Operational Performance Analytics  
+<sub>
+Built operational dashboards to improve decision-making and efficiency tracking.
 </sub>
 
 <br>
@@ -134,11 +193,22 @@ for decision-making
 </td>
 
 <td width="50%" valign="top">
+
+**Skills Used**
+
+🟦 Analytics  
+SQL • KPI Tracking • Data Aggregation  
+
+🟩 Business Intelligence  
+Power BI • Dashboard Design • Reporting  
+
+🟨 Operations Insight  
+Process Analysis • Efficiency Metrics • Performance Monitoring  
+
 </td>
 </tr>
-</table>
 
----
+</table>
 
 ##  Analytics & Dashboard Portfolio
 
