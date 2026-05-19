@@ -1,14 +1,14 @@
 # Muhammad Umair Nawaz  
 
-Data & Analytics Engineer specializing in Azure-based Lakehouse & BI solutions
+## Data & Analytics Engineer specializing in Azure-based Lakehouse & BI solutions  
 
-I specialize in building **end-to-end data solutions on Azure and traditional BI ecosystems**, focusing on scalable pipelines, structured data models, and executive-level dashboards that drive business decisions.
+I specialize in building **end-to-end data solutions on Azure and traditional BI ecosystems**, focusing on scalable pipelines, structured data models, and executive-level dashboards that drive business decisions.  
 
 ---
 
 ## Core Capabilities
 
-- **Azure Data Engineering** — building scalable data pipelines using Azure Data Factory, Databricks, ADLS, and Delta Lake (Medallion Architecture)
+- **Azure Data Engineering** — building scalable data pipelines using Azure Data Factory, Databricks, ADLS, and Delta Lake (Medallion Architecture)  
 - **Lakehouse Architecture** — designing Bronze / Silver / Gold data layers for structured analytics systems  
 - **ETL/ELT Pipelines** — automated ingestion, transformation, and orchestration workflows  
 - **Analytics Automation** — eliminating manual reporting with cloud-based data workflows  
@@ -19,14 +19,6 @@ I specialize in building **end-to-end data solutions on Azure and traditional BI
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mumairnawaz&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumairnawaz&layout=compact&theme=default" />
-</p>
-
----
 
 ##  Expertise
 
