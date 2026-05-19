@@ -22,22 +22,31 @@ I specialize in building **end-to-end data solutions on Azure and traditional BI
 
 ##  Expertise
 
-**BI & Analytics**  
+**☁️ Azure Data Engineering & Lakehouse**  
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-EA2E2E?style=flat&logo=databricks&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/ADLS%20Gen2-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-20C997?style=flat&logo=delta&logoColor=white)
+![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-6A1B9A?style=flat)
+
+**📊 BI & Analytics**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**Data & Warehousing**  
+**🗄️ Data & Warehousing**  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehouse-4A90E2?style=flat)
 
-**Engineering & Modeling**  
-![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
+**⚙️ Data Engineering & Modeling**  
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-blue)
 ![Data Modeling](https://img.shields.io/badge/Star%20Schema-orange)
-![API](https://img.shields.io/badge/API-Integration-green)
+![API Integration](https://img.shields.io/badge/API-Integration-green)
+![Lakehouse Architecture](https://img.shields.io/badge/Lakehouse-1E88E5?style=flat)
 
-**Programming**  
+**💻 Programming & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
