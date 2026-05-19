@@ -41,12 +41,26 @@ I specialize in building structured data environments, automated reporting syste
 
 ---
 
-##  Professional Work
+## Professional Work
 
 > Selected analytics work focused on business performance, risk detection, and scalable data systems.
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### ☁️ Azure Crypto Analytics Lakehouse  
+<sub>
+Built an end-to-end Azure data engineering solution  
+using Medallion Architecture, Delta Lake, and Power BI
+</sub>
+
+<br>
+
+🔗 <a href="https://github.com/mumairnawaz/azure-crypto-analytics-lakehouse"><b>View Case Study →</b></a>
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 📈 Revenue Intelligence & Sales Analytics  
@@ -60,10 +74,12 @@ and performance gaps
 🔗 <a href="https://github.com/mumairnawaz/sales-decline-analysis"><b>View Case Study →</b></a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
-###  Fraud Detection & Risk Analytics  
+### 🛡️ Fraud Detection & Risk Analytics  
 <sub>
 Built analytics workflows for identifying anomalies  
 and transaction risk patterns
@@ -74,12 +90,10 @@ and transaction risk patterns
 🔗 <a href="https://github.com/mumairnawaz/fraud-detection-analytics-system"><b>View Case Study →</b></a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
-###  Data Warehousing & Analytical Modeling  
+### 🏗️ Data Warehousing & Analytical Modeling  
 <sub>
 Developed scalable data models and pipelines  
 for analytics and reporting
@@ -90,10 +104,12 @@ for analytics and reporting
 🔗 <a href="https://github.com/mumairnawaz/football-analytics-warehouse"><b>View Case Study →</b></a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
-###  Operational Performance & Efficiency Analytics  
+### ⚙️ Operational Performance & Efficiency Analytics  
 <sub>
 Structured operational data into analytics-ready environments  
 for decision-making
@@ -103,6 +119,9 @@ for decision-making
 
 🔗 <a href="https://github.com/mumairnawaz/Operations-analyst-case-study"><b>View Case Study →</b></a>
 
+</td>
+
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
