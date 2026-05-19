@@ -181,7 +181,7 @@ Structured operational data into analytics-ready environments for decision-makin
 </table>
 
 </table>
-</table>
+
 ##  Analytics & Dashboard Portfolio
 
 > Interactive dashboards designed to transform complex data into actionable business insights.
