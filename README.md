@@ -63,7 +63,7 @@ I specialize in building **end-to-end data solutions on Azure and traditional BI
 
 ### ☁️ Azure Crypto Analytics Lakehouse  
 <sub>
-End-to-end Azure data engineering solution using Medallion Architecture, Delta Lake, and Power BI.
+Built an end-to-end Azure data engineering solution using Medallion Architecture, Delta Lake, and Power BI.
 </sub>
 
 <br>
@@ -74,18 +74,11 @@ End-to-end Azure data engineering solution using Medallion Architecture, Delta L
 
 <td width="50%" valign="top">
 
-<strong>DATA ENGINEERING</strong><br>
-Azure Data Factory • Databricks • ADLS Gen2  
+<strong>KEY HIGHLIGHTS</strong><br>
 
-<br>
-
-<strong>DATA ARCHITECTURE</strong><br>
-Medallion Architecture • Delta Lake • Data Modeling  
-
-<br>
-
-<strong>ANALYTICS & BI</strong><br>
-SQL • Power BI • Reporting Dashboards  
+• Built scalable end-to-end Azure data pipelines<br>
+• Designed production-grade lakehouse architecture<br>
+• Enabled automated analytics and executive reporting
 
 </td>
 </tr>
@@ -95,7 +88,7 @@ SQL • Power BI • Reporting Dashboards
 
 ### 📈 Revenue Intelligence & Sales Analytics  
 <sub>
-Identified revenue decline drivers and performance gaps using BI-driven analysis.
+Designed analytics systems to identify revenue decline drivers and performance gaps.
 </sub>
 
 <br>
@@ -106,18 +99,11 @@ Identified revenue decline drivers and performance gaps using BI-driven analysis
 
 <td width="50%" valign="top">
 
-<strong>DATA ANALYSIS</strong><br>
-SQL • Excel • Data Extraction  
+<strong>KEY HIGHLIGHTS</strong><br>
 
-<br>
-
-<strong>BUSINESS INTELLIGENCE</strong><br>
-Power BI • KPI Dashboards • Data Visualization  
-
-<br>
-
-<strong>INSIGHT GENERATION</strong><br>
-Root Cause Analysis • Trend Analysis • Business Reporting  
+• Identified key drivers of revenue decline<br>
+• Uncovered sales performance gaps across KPIs<br>
+• Delivered actionable business insights for decision-making
 
 </td>
 </tr>
@@ -127,7 +113,7 @@ Root Cause Analysis • Trend Analysis • Business Reporting
 
 ### 🛡️ Fraud Detection & Risk Analytics  
 <sub>
-Built anomaly detection workflows for identifying transaction risks and suspicious patterns.
+Built analytics workflows for identifying anomalies and transaction risk patterns.
 </sub>
 
 <br>
@@ -138,18 +124,11 @@ Built anomaly detection workflows for identifying transaction risks and suspicio
 
 <td width="50%" valign="top">
 
-<strong>DATA PROCESSING</strong><br>
-SQL • Python • Data Cleaning  
+<strong>KEY HIGHLIGHTS</strong><br>
 
-<br>
-
-<strong>RISK ANALYTICS</strong><br>
-Anomaly Detection • Statistical Analysis • Fraud Detection  
-
-<br>
-
-<strong>BI & REPORTING</strong><br>
-Power BI • Risk Dashboards • Data Validation  
+• Developed anomaly detection workflows<br>
+• Identified suspicious transaction patterns<br>
+• Improved risk visibility through analytical dashboards
 
 </td>
 </tr>
@@ -159,7 +138,7 @@ Power BI • Risk Dashboards • Data Validation
 
 ### 🏗️ Data Warehousing & Analytical Modeling  
 <sub>
-Designed scalable data models and ETL pipelines for analytics and reporting.
+Developed scalable data models and pipelines for analytics and reporting.
 </sub>
 
 <br>
@@ -170,18 +149,11 @@ Designed scalable data models and ETL pipelines for analytics and reporting.
 
 <td width="50%" valign="top">
 
-<strong>DATA MODELING</strong><br>
-Star Schema • Snowflake Schema • Dimensional Modeling  
+<strong>KEY HIGHLIGHTS</strong><br>
 
-<br>
-
-<strong>DATA ENGINEERING</strong><br>
-ETL Design • SQL Transformations • Data Pipelines  
-
-<br>
-
-<strong>ARCHITECTURE</strong><br>
-Data Warehouse Design • Reporting Layer Design  
+• Designed scalable warehouse schema and models<br>
+• Built analytics-ready transformation pipelines<br>
+• Optimized reporting layer performance
 
 </td>
 </tr>
@@ -189,9 +161,9 @@ Data Warehouse Design • Reporting Layer Design
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Operational Performance Analytics  
+### ⚙️ Operational Performance & Efficiency Analytics  
 <sub>
-Built operational dashboards to improve decision-making and efficiency tracking.
+Structured operational data into analytics-ready environments for decision-making.
 </sub>
 
 <br>
@@ -202,22 +174,16 @@ Built operational dashboards to improve decision-making and efficiency tracking.
 
 <td width="50%" valign="top">
 
-<strong>ANALYTICS</strong><br>
-SQL • KPI Tracking • Data Aggregation  
+<strong>KEY HIGHLIGHTS</strong><br>
 
-<br>
-
-<strong>BUSINESS INTELLIGENCE</strong><br>
-Power BI • Dashboard Design • Reporting  
-
-<br>
-
-<strong>OPERATIONS INSIGHT</strong><br>
-Process Analysis • Efficiency Metrics • Performance Monitoring  
+• Built KPI dashboards for operational visibility<br>
+• Structured data for faster decision-making<br>
+• Improved efficiency tracking and performance monitoring
 
 </td>
 </tr>
 
+</table>
 </table>
 ##  Analytics & Dashboard Portfolio
 
