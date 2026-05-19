@@ -59,6 +59,11 @@ I specialize in building **end-to-end data solutions on Azure and traditional BI
 
 <table>
 <tr>
+<th width="50%" align="left">Projects</th>
+<th width="50%" align="left">Business Impact</th>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### ☁️ Azure Crypto Analytics Lakehouse  
@@ -73,7 +78,6 @@ Built an end-to-end Azure data engineering solution using Medallion Architecture
 </td>
 
 <td width="50%" valign="top">
-
 
 • Built scalable end-to-end Azure data pipelines<br>
 • Designed production-grade lakehouse architecture<br>
@@ -98,7 +102,6 @@ Designed analytics systems to identify revenue decline drivers and performance g
 
 <td width="50%" valign="top">
 
-
 • Identified key drivers of revenue decline<br>
 • Uncovered sales performance gaps across KPIs<br>
 • Delivered actionable business insights for decision-making
@@ -121,7 +124,6 @@ Built analytics workflows for identifying anomalies and transaction risk pattern
 </td>
 
 <td width="50%" valign="top">
-
 
 • Developed anomaly detection workflows<br>
 • Identified suspicious transaction patterns<br>
@@ -146,7 +148,6 @@ Developed scalable data models and pipelines for analytics and reporting.
 
 <td width="50%" valign="top">
 
-
 • Designed scalable warehouse schema and models<br>
 • Built analytics-ready transformation pipelines<br>
 • Optimized reporting layer performance
@@ -170,13 +171,14 @@ Structured operational data into analytics-ready environments for decision-makin
 
 <td width="50%" valign="top">
 
-
 • Built KPI dashboards for operational visibility<br>
 • Structured data for faster decision-making<br>
 • Improved efficiency tracking and performance monitoring
 
 </td>
 </tr>
+
+</table>
 
 </table>
 </table>
